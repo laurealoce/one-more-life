@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":false,"name":"Начальная битва","order":2,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Примеры","order":3,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":4,"expanded":false,"name":"Проклятая пещера","order":4,"parentId":3,"scrollX":811,"scrollY":1947}
+]
