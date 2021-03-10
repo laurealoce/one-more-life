@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":1,"equips":[1,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":9,"name":"Барсик","nickname":"Кот","note":"","profile":"самый обычный кот."},
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"barsik_faceset","traits":[],"initialLevel":1,"maxLevel":9,"name":"Барсик","nickname":"Кот","note":"","profile":"самый обычный кот."},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Дина","nickname":"","note":"","profile":"хозяйка Барсика."},
 {"id":3,"battlerName":"","characterIndex":6,"characterName":"cat_fluffy","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":5,"maxLevel":9,"name":"Марс","nickname":"Рыжий Кот","note":"","profile":"матёрый соседский кот."}
 ]
