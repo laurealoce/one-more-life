@@ -15,6 +15,6 @@ null,
 {"id":13,"expanded":false,"name":"Дом - ночь","order":4,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":14,"expanded":false,"name":"Дом 1","order":16,"parentId":3,"scrollX":973.1999999999999,"scrollY":646.8},
 {"id":15,"expanded":false,"name":"Дом 2","order":17,"parentId":3,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":16,"expanded":false,"name":"Дом - утро","order":6,"parentId":17,"scrollX":832,"scrollY":640},
-{"id":17,"expanded":false,"name":"Акт 1 - Пригород","order":5,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
+{"id":16,"expanded":false,"name":"Дом - утро","order":6,"parentId":17,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":17,"expanded":true,"name":"Акт 1 - Пригород","order":5,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
 ]
